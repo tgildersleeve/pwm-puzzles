@@ -1,4 +1,5 @@
-# tesla
-#####
-#####created some arduino sketches in the hopes of using them for Studio: TESLA
-#####purpose: get STL youth interested in tech, computer science & computer engineering. learn a bit about it
+# projects for student club, Studio: TESLA
+### pulse width modulation puzzles
+##### arduino sketches meant to assist in teaching younger students about pulse width modulation, encouraging interest in computer science and engineering
+##### students can try to match output pins to different flash rates and LED brightnesses
+##### club volunteers can use the arduino puzzle to explain PWM
